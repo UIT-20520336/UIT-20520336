@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+About me: I'm currently a student of University of Information Technology (UIT), pursuing Major of Software Engineering and will graduate mid-2025.
+I enjoy reading about technology, and have learnt about: MySQL, C#, Java, MongoDB, HTML, CSS, VueJS, Javascript, jQuery, ...
+Outside of the world tech, I enjoy watching films, listening to music and playing video games
+Reach me: trungquanminh@gmail.com
 <!--
 **UIT-20520336/UIT-20520336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
